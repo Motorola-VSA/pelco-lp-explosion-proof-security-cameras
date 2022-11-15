@@ -10,8 +10,8 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/explosion-proof-security-cameras/08-Specialty-Cameras-LPhero.jpg",
-      'marquee-mobile': "https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/explosion-proof-security-cameras/08-Specialty-Cameras-LPhero-mobile.jpg"
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/explosion-proof-security-cameras/08-Specialty-Cameras-LPhero.jpg')",
+      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/explosion-proof-security-cameras/08-Specialty-Cameras-LPhero-mobile.jpg')"
     },
     extend: {
       colors: {
